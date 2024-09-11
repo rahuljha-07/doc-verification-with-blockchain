@@ -1,0 +1,19 @@
+NULL
+1
+abes
+QmNVWNxnmKUq9UqCnWuScXN3Pz2F65tVLmZZC8YttD4Uyt
+
+Candidate_Name :  aman
+Gender :  m
+University :  aktu
+Institute_Name :  abes
+Course :  btech
+Branch :  cse
+Roll_Number :  1
+Result_Status :  p
+SGPA :  9
+Address :  146
+
+
+Published By :  admin@abc.com
+2021-05-16 18:55:19.884610
